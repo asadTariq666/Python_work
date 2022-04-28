@@ -14,7 +14,7 @@ def rms_titanic():
     # set up file path for titanic data
     file_path = ('titanicTrain.csv')
     # create dataframe to read titanic data
-    dataframe = pd.read_csv(file_path)
+    dataframe = pd.read_csv('/Users/asadtariq/Downloads/Python_work/Python_work/newchoolers1/titanicTrain.csv')
 
     df = dataframe[ ['Survived', 'Sex', 'Pclass', 'Age'] ]
     #print(df.info())

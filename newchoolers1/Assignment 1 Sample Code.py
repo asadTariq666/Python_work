@@ -7,7 +7,8 @@ from sklearn.linear_model import LogisticRegression
 def main():
     pd.set_option('display.width', None)
     file_path = "banking.csv"
-    df_banking = pd.read_csv(file_path)
+    df_banking = pd.read_csv("")
+
     # print(df_banking.info())
     # print(df_banking.isnull().sum())
 
