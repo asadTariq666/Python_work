@@ -1,0 +1,7 @@
+4042,Programming in Python,ICS,20,60,UT,0900-0950
+4044,Programming in C,ICS,29,60,UT,1000-1050
+4113,Object-Oriented Programming,ICS,23,60,MW,0930-1045
+4115,Advanced Object-Oriented Programming,ICS,27,60,MW,1330-1445
+4027,Database Systems,ICS,0,30,MW,1000-1050
+4264,Digital Logic Design,COE,23,40,MW,1000-1050
+1552,Computer Organization,COE,28,40,T,1300-1700
