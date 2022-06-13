@@ -1,0 +1,9 @@
+#Krishna Snigdha Lakamsani
+
+-> Extract the file "knn_classify.py" into the folder where the "pendigits_training.txt" and "pendigits_test.txt" files are located.
+
+-> Open the command prompt and change the path to the folder containing all the files.
+
+-> Give the command "python knn_classify.py pendigits_training.txt pendigits_test.txt K" (K is value of N-nearest neighbors you wish to give) and hit enter.
+
+-> After execution of approx 2 mins. you will see the average Accuracy of the test data according to the given logic.
