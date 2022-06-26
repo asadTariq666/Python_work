@@ -9,16 +9,14 @@ df = pd.read_excel('red1.xlsx')
 df.head()
 ## dataframe with all rows data
 df_all =df
-# keeping data when condition = y
-df = df.loc[df['Condition'] == 'y']
-df.head(10)
+# # keeping data when condition = y
+# df = df.loc[df['Condition'] == 'y']
+# df.head(10)
 
 # Getting dateID data in an array
 x = np.array(df_all['dateId'])
 r = np.array(df_all['dateId2'])
 s =np.array(df_all['dateId3'])
-
-
 
 # Getting a list of counts of every unique number in the dateId Column
 y = df_all['dateId'].value_counts()
@@ -44,34 +42,26 @@ y = df_all['dateId'].value_counts()
 keys = y.keys()
 counter2 = y.values
 
-# redial 2 column
+# redial 2 and redial 3column
+
 for i in range(len(r)):
     for j  in range(len(counter2)):
+        if df_all['Condition'][i] == 'n':
+            redial2[i]= '-'
+            redial3[i]= '-'
         if r[i]==keys[j]:
             redial2[i]=counter2[j]
-
-
-# redial 3 column
-for i in range(len(s)):
-    for j  in range(len(counter2)):
         if s[i]==keys[j]:
-            redial3[i]=counter2[j]
+            redial3[i]=counter2[j]   
+            #print(i,j,r[i])
 
-
-
-# Assigning '-' to rows where condition = 'n'
-for i in range(len(df_all)):
-    if df_all['Condition'][i] == 'n':
-        redial[i]= '-'
-        redial2[i]= '-'
-        redial2[i]= '-'
         
 # Assigning values to dataframe
 df_all.redial1 = redial
 df_all['redial2'] = redial2
 df_all['redial3'] = redial3
 
-
+print(df_all.head(10))
 #saving in to excel and csv file
 df_all.to_csv('Updated File.csv')
 df_all.to_excel('Updated File.xlsx')
