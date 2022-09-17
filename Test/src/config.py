@@ -1,0 +1,6 @@
+raw_path = '../inputs/data/raw/'
+interim_path = '../inputs/data/interim/'
+reports_path = '../outputs/reports/'
+results_path = '../outputs/results/'
+scenario_path = '../inputs/configuration/'
+additional_scenarios_path = '../outputs/additional_scenarios_input/'
