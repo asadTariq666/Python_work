@@ -38,7 +38,7 @@ for i in range(X.shape[0]):
 def class_acc(pred, gt):
     accurate = 0
     for i in range(len(gt)):
-        if pred[i] == gt[i]:
+        if pred[i] == gt[i]: 
             accurate = accurate + 1
     length_gt = float(len(gt))
     return (accurate / length_gt )* 100.0
