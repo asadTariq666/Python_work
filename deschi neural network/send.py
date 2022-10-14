@@ -25,7 +25,6 @@ def setup(hostname):
     client.connect(hostname) 
     client.loop_start() 
     return client
-
 def load_image(filename):
     img = Image.open(filename) 
     img = img.resize((249, 249)) 
