@@ -38,6 +38,7 @@ def send_image(client, filename):
     send_dict = {"filename":filename, "data": img_list} 
     client.publish("Group_99/IMAGE/classify", json.dumps(send_dict))
 
+
 def main():
     client = setup("192.168.0.1") 
     print("Sending data.")
