@@ -1,0 +1,289 @@
+,index,id,brand,model,website,price,mileage,owners,depreciation,reg_date,coe_left,link
+0,0,1,Mercedes-Benz,SLK-Class SLK250 (COE till 03/2032),Carro,170888,55000,3,14990,2012-10-10 00:00:00,9.416666666666666,/cars/mercedes-benz/slk/mercedes-benz-slk-class-slk250--coe-till-03-2032-/DXLKJ1
+1,1,2,Audi,Q5 2.0A TFSI Quattro,Carro,97888,118480,1,19790,2016-08-24 00:00:00,3.8333333333333335,/cars/audi/q5/audi-q5-2-0a-tfsi-quattro/DR8WRP
+2,2,3,Toyota,Wish 1.8A,Carro,83888,41610,2,14500,2017-11-23 00:00:00,5.083333333333333,/cars/toyota/wish/toyota-wish-1-8a/DO85O7
+3,3,4,Audi,S5 Sportback 3.0A TFSI Quattro (COE till 02/2030),Carro,116888,163562,5,15870,2010-09-22 00:00:00,7.333333333333333,/cars/audi/s5/audi-s5-sportback-3-0a-tfsi-quattro--coe-till-02-2030-/EN8PYJ
+4,4,5,Mercedes-Benz,GLC-Class GLC300 Mild Hybrid AMG Line 4MATIC,Carro,255888,41962,1,27810,2020-10-15 00:00:00,7.916666666666667,/cars/mercedes-benz/glc300/mercedes-benz-glc-class-glc300-mild-hybrid-amg-line-4matic/EZNPML
+5,5,6,Hyundai,Elantra 1.6A GLS (OPC),Carro,67388,19431,1,10300,2018-09-25 00:00:00,5.916666666666667,/cars/hyundai/elantra/hyundai-elantra-1-6a-gls--opc-/GVJP54
+6,6,7,Volkswagen,Jetta 1.4A TSI (COE till 09/2031),Carro,88888,89481,2,9930,2011-10-10 00:00:00,8.916666666666666,/cars/volkswagen/jetta/volkswagen-jetta-1-4a-tsi--coe-till-09-2031-/EK84PW
+7,7,8,Audi,A3 Sedan 1.0A TFSI S-tronic,Carro,75888,81000,3,15720,2017-01-25 00:00:00,4.25,/cars/audi/a3/audi-a3-sedan-1-0a-tfsi-s-tronic/G96N9V
+8,8,9,Jaguar,XE 2.0A,Carro,109888,167350,1,15100,2018-08-28 00:00:00,5.833333333333333,/cars/jaguar/xe/jaguar-xe-2-0a/G66X13
+9,9,10,Volvo,XC40 Recharge Plug-in Hybrid T5 R-Design,Carro,205888,8575,1,20660,2021-10-29 00:00:00,9.0,/cars/volvo/xc40/volvo-xc40-recharge-plug-in-hybrid-t5-r-design/G346PR
+10,10,11,Volvo,XC60 B5 R-Design,Carro,238888,13796,1,23500,2022-01-14 00:00:00,9.166666666666666,/cars/volvo/xc60/volvo-xc60-b5-r-design/D24P98
+11,11,12,Volkswagen,Jetta GP 1.4A TSI,Carro,60888,153902,2,12450,2016-12-27 00:00:00,4.166666666666667,/cars/volkswagen/jetta/volkswagen-jetta-gp-1-4a-tsi/E14VNV
+12,12,13,Mercedes-Benz,E-Class E200,Carro,102888,115965,1,21150,2016-02-12 00:00:00,3.25,/cars/mercedes-benz/e200/mercedes-benz-e-class-e200/EZNPLL
+13,13,14,BMW,4 Series 428i Gran Coupe Sunroof,Carro,86888,138971,4,23400,2015-06-19 00:00:00,2.5833333333333335,/cars/bmw/428i/bmw-4-series-428i-gran-coupe-sunroof/DO85Q7
+14,14,15,Kia,Niro Hybrid 1.6A GDi DCT Sunroof,Carro,138888,18049,1,13970,2022-01-24 00:00:00,9.25,/cars/kia/niro/kia-niro-hybrid-1-6a-gdi-dct-sunroof/GP9J8O
+15,15,16,Audi,Q3 1.4A TFSI S-tronic,Carro,165888,22024,1,17880,2021-03-16 00:00:00,8.333333333333334,/cars/audi/q3/audi-q3-1-4a-tfsi-s-tronic/DO8O62
+16,16,17,Volkswagen,Scirocco 1.4A TSI (COE till 07/2030),Carro,71888,179265,3,9250,2010-07-28 00:00:00,7.75,/cars/volkswagen/scirocco/volkswagen-scirocco-1-4a-tsi--coe-till-07-2030-/GM8Z2Q
+17,17,18,Hyundai,Avante 1.6A GLS,Carro,98888,41096,1,12240,2020-02-19 00:00:00,7.25,/cars/hyundai/ad/hyundai-avante-1-6a-gls/E79ZPY
+18,18,19,Mitsubishi,Outlander 2.4A Sunroof,Carro,52888,174318,1,15060,2015-09-09 00:00:00,2.8333333333333335,/cars/mitsubishi/outlander/mitsubishi-outlander-2-4a-sunroof/G668OK
+19,19,20,Nissan,Qashqai 1.2A DIG-T,Carro,48888,74258,2,13960,2015-10-27 00:00:00,3.0,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/G668QK
+20,20,21,Hyundai,Elantra 1.6A GLS,Carro,69388,34498,1,12350,2017-12-07 00:00:00,5.083333333333333,/cars/hyundai/elantra/hyundai-elantra-1-6a-gls/D245MO
+21,21,22,Mazda,2 HB 1.5A Standard,Carro,83888,41536,1,11040,2019-09-18 00:00:00,6.833333333333333,/cars/mazda/mazda-2/mazda-2-hb-1-5a-standard/DXLJY9
+22,22,23,Honda,Odyssey 2.4A EXV-S Sunroof,Carro,100888,105733,1,18910,2017-02-16 00:00:00,4.25,/cars/honda/odyssey/honda-odyssey-2-4a-exv-s-sunroof/EWKQXW
+23,23,24,Audi,Q3 1.4A TFSI S-tronic,Carro,165888,16210,1,18340,2020-12-30 00:00:00,8.166666666666666,/cars/audi/q3/audi-q3-1-4a-tfsi-s-tronic/DL8YJ6
+24,24,25,Toyota,Harrier Turbo 2.0A M,Carro,140888,29082,1,17530,2019-10-31 00:00:00,7.0,/cars/toyota/harrier/toyota-harrier-turbo-2-0a-m/D89XJX
+25,25,26,Honda,City 1.5A LX i-VTEC (COE till 08/2030),Carro,73888,212524,4,9390,2010-09-29 00:00:00,7.833333333333333,/cars/honda/city/honda-city-1-5a-lx-i-vtec--coe-till-08-2030-/G6684V
+26,26,27,Nissan,Qashqai 1.2A DIG-T,Carro,59888,98528,2,13190,2016-10-26 00:00:00,4.0,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/D55Z40
+27,27,28,Volkswagen,Golf GTI 5DR,Carro,54888,188274,2,18680,2014-10-23 00:00:00,2.0,/cars/volkswagen/golf/volkswagen-golf-gti-5dr/GYMKXX
+28,28,29,Mazda,3 1.5A Sunroof,Carro,72888,93620,2,11840,2018-05-08 00:00:00,5.5,/cars/mazda/mazda3/mazda-3-1-5a-sunroof/EWKQVY
+29,29,30,Toyota,Estima 2.4A (COE till 08/2027),Carro,57888,224879,2,11990,2007-08-17 00:00:00,4.75,/cars/toyota/estima/toyota-estima-2-4a--coe-till-08-2027-/DO8OK4
+30,30,31,Honda,Jazz 1.3A,Carro,75588,59532,1,11950,2018-11-19 00:00:00,6.0,/cars/honda/jazz/honda-jazz-1-3a/EN8YJ0
+31,31,32,Honda,Fit 1.3A GF,Carro,89888,61926,1,10560,2020-12-16 00:00:00,8.083333333333334,/cars/honda/fit/honda-fit-1-3a-gf/G34V4J
+32,32,33,BMW,3 Series 318i Highline Sport,Carro,170888,33733,1,17980,2020-11-30 00:00:00,8.083333333333334,/cars/bmw/318i/bmw-3-series-318i-highline-sport/DR8R83
+33,33,34,BMW,3 Series 320i Highline,Carro,177888,18249,1,20410,2020-02-28 00:00:00,7.333333333333333,/cars/bmw/320i/bmw-3-series-320i-highline/G04938
+34,34,35,Land,Rover Range Rover Evoque 2.0A 5DR,Carro,118888,50975,2,20310,2016-08-18 00:00:00,3.75,/cars/land-rover/range/land-rover-range-rover-evoque-2-0a-5dr/GYMKPP
+35,35,36,Honda,Civic 1.5A VTEC Turbo Sunroof,Carro,110888,89101,1,15810,2018-11-05 00:00:00,6.0,/cars/honda/civic/honda-civic-1-5a-vtec-turbo-sunroof/EWKQN1
+36,36,37,Mazda,2 HB 1.5A V (COE till 06/2029),Carro,62888,115548,3,9450,2009-06-15 00:00:00,6.583333333333333,/cars/mazda/mazda2/mazda-2-hb-1-5a-v--coe-till-06-2029-/EQ8915
+37,37,38,Honda,Civic 1.6A VTi,Carro,100888,34757,1,13210,2019-09-03 00:00:00,6.833333333333333,/cars/honda/civic/honda-civic-1-6a-vti/DL8Y1Y
+38,38,39,Kia,Cerato 1.6A EX,Carro,119888,6644,1,11910,2022-02-25 00:00:00,9.333333333333334,/cars/kia/cerato/kia-cerato-1-6a-ex/DL8YPO
+39,39,40,BMW,1 Series 116i Sportline,Carro,141888,17939,2,14340,2021-06-15 00:00:00,8.583333333333334,/cars/bmw/116i/bmw-1-series-116i-sportline/G96ZVM
+40,40,41,MINI,Cooper Clubman 1.5A,Carro,118888,98062,2,17710,2018-06-28 00:00:00,5.666666666666667,/cars/mini/cooper/mini-cooper-clubman-1-5a/D89X41
+41,41,42,Skoda,Octavia 2.0A TSI RS,Carro,122888,60931,1,16060,2019-07-17 00:00:00,6.666666666666667,/cars/skoda/octavia/skoda-octavia-2-0a-tsi-rs/G6689R
+42,42,43,Volvo,XC60 T5 2.0A,Carro,73888,165559,3,17700,2015-10-27 00:00:00,3.0,/cars/volvo/xc60/volvo-xc60-t5-2-0a/E14O2K
+43,43,44,Toyota,Wish 1.8A X,Carro,48888,84432,2,16010,2015-06-23 00:00:00,2.6666666666666665,/cars/toyota/wish/toyota-wish-1-8a-x/DR8R65
+44,44,45,Honda,Civic 1.8M (COE till 07/2030),Carro,82888,191026,3,10720,2010-07-12 00:00:00,7.666666666666667,/cars/honda/civic/honda-civic-1-8m--coe-till-07-2030-/GP9J6J
+45,45,46,Hyundai,Avante 1.6A GLS,Carro,76888,324851,1,11160,2019-01-16 00:00:00,6.166666666666667,/cars/hyundai/ad/hyundai-avante-1-6a-gls/DO8O9J
+46,46,47,Mercedes-Benz,C-Class C180 Avantgarde,Carro,188888,22019,1,19300,2021-06-30 00:00:00,8.666666666666666,/cars/mercedes-benz/c180/mercedes-benz-c-class-c180-avantgarde/EN8Y6N
+47,47,48,BMW,2 Series 220i Gran Tourer,Carro,114888,134574,2,20970,2017-05-03 00:00:00,4.5,/cars/bmw/220i/bmw-2-series-220i-gran-tourer/DL8Y4O
+48,48,49,Land,Rover Range Rover Evoque 2.0A 5DR,Carro,122888,128652,1,21570,2016-01-29 00:00:00,3.25,/cars/land-rover/range-rover/land-rover-range-rover-evoque-2-0a-5dr/EK8K3Q
+49,49,50,BMW,5 Series 520i,Carro,85888,139394,2,20220,2015-11-04 00:00:00,3.0,/cars/bmw/520i/bmw-5-series-520i/GJ8J34
+50,50,51,Subaru,Outback 2.5i-S Sunroof,Carro,74888,95405,2,15740,2016-09-21 00:00:00,3.9166666666666665,/cars/subaru/outback/subaru-outback-2-5i-s-sunroof/D89XP1
+51,51,52,Volvo,V60 Diesel D2,Carro,53888,129098,1,17010,2015-06-29 00:00:00,2.6666666666666665,/cars/volvo/v60/volvo-v60-diesel-d2/E79ZON
+52,52,53,Skoda,Octavia 2.0A TSI RS,Carro,124888,47223,1,15890,2019-09-30 00:00:00,6.916666666666667,/cars/skoda/octavia/skoda-octavia-2-0a-tsi-rs/D245Q6
+53,53,54,BMW,2 Series 216i Gran Tourer,Carro,97888,83741,2,16550,2017-09-27 00:00:00,4.916666666666667,/cars/bmw/216i/bmw-2-series-216i-gran-tourer/GJ8J04
+54,54,55,Mercedes-Benz,GLA-Class GLA200 Urban Edition,Carro,64888,114887,5,22680,2015-03-13 00:00:00,2.3333333333333335,/cars/mercedes-benz/gla200/mercedes-benz-gla-class-gla200-urban-edition/GYMK0Q
+55,55,56,Volkswagen,Arteon 2.0A TSI R-Line,Carro,145888,50289,1,21450,2018-04-27 00:00:00,5.5,/cars/volkswagen/arteon/volkswagen-arteon-2-0a-tsi-r-line/DXLJPK
+56,56,57,Audi,A6 2.0A TFSI,Carro,105888,137160,1,20670,2016-08-23 00:00:00,3.8333333333333335,/cars/audi/a6/audi-a6-2-0a-tfsi/DO8OZX
+57,57,58,Mercedes-Benz,C-Class C180 Avantgarde,Carro,120888,66164,3,19930,2017-10-05 00:00:00,4.916666666666667,/cars/mercedes-benz/c180/mercedes-benz-c-class-c180-avantgarde/GJ8JLY
+58,58,59,Nissan,Qashqai 1.2A DIG-T,Carro,87888,75864,1,13630,2018-06-30 00:00:00,5.666666666666667,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/E79ZXM
+59,59,60,Mercedes-Benz,C-Class C200 Mild Hybrid AMG Line,Carro,175888,52612,3,20140,2019-12-02 00:00:00,7.083333333333333,/cars/mercedes-benz/c200/mercedes-benz-c-class-c200-mild-hybrid-amg-line/E44Z16
+60,60,61,BMW,2 Series 218i Coupe Sunroof,Carro,112888,45340,1,19120,2017-11-29 00:00:00,5.083333333333333,/cars/bmw/218i/bmw-2-series-218i-coupe-sunroof/GYMKOQ
+61,61,62,Audi,A4 2.0A TFSI S-tronic,Carro,131888,50395,1,18470,2018-11-21 00:00:00,6.083333333333333,/cars/audi/a4/audi-a4-2-0a-tfsi-s-tronic/EWKQ9Q
+62,62,63,Nissan,Qashqai 2.0A Premium,Carro,62888,72734,1,14690,2016-05-31 00:00:00,3.5833333333333335,/cars/nissan/qashqai/nissan-qashqai-2-0a-premium/GVJ075
+63,63,64,Volvo,XC60 B5 R-Design,Carro,240888,13567,1,24490,2021-09-30 00:00:00,8.916666666666666,/cars/volvo/xc60/volvo-xc60-b5-r-design/DR8R59
+64,64,65,Honda,Jazz 1.3A,Carro,90888,36650,1,11170,2020-08-19 00:00:00,7.75,/cars/honda/jazz/honda-jazz-1-3a/EK8K4W
+65,65,66,BMW,5 Series 535i Gran Turismo Sunroof (COE till 07/2030),Carro,115888,131176,4,14880,2011-02-15 00:00:00,7.75,/cars/bmw/535i/bmw-5-series-535i-gran-turismo-sunroof--coe-till-07-2030-/GJ8J96
+66,66,67,Nissan,Qashqai 1.2A DIG-T,Carro,47888,127056,3,14140,2015-09-17 00:00:00,2.8333333333333335,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/G96ZNV
+67,67,68,Mercedes-Benz,C-Class C180 Avantgarde,Carro,79888,124177,2,21670,2015-08-25 00:00:00,2.8333333333333335,/cars/mercedes-benz/c180/mercedes-benz-c-class-c180-avantgarde/E79Z8O
+68,68,69,Honda,Shuttle Hybrid 1.5A,Carro,118888,31974,1,13230,2020-11-24 00:00:00,8.083333333333334,/cars/honda/shuttle/honda-shuttle-hybrid-1-5a/G668X3
+69,69,70,BMW,2 Series 218i Gran Coupe M-Sport,Carro,182888,16431,1,17650,2021-12-17 00:00:00,9.083333333333334,/cars/bmw/218i/bmw-2-series-218i-gran-coupe-m-sport/GVJ004
+70,70,71,BMW,5 Series 528i,Carro,78888,78757,2,22090,2015-04-28 00:00:00,2.5,/cars/bmw/528i/bmw-5-series-528i/EWKQ62
+71,71,72,Volkswagen,Jetta GP 1.4A TSI,Carro,60888,102370,3,12710,2016-11-22 00:00:00,4.083333333333333,/cars/volkswagen/jetta/volkswagen-jetta-gp-1-4a-tsi/GVJ054
+72,72,73,BMW,2 Series 218i Gran Coupe M-Sport,Carro,177888,7627,2,17690,2021-08-27 00:00:00,8.833333333333334,/cars/bmw/218i/bmw-2-series-218i-gran-coupe-m-sport/G96Z9V
+73,73,74,Nissan,Elgrand 2.5A Highway Star,Carro,58888,140879,2,18840,2014-11-08 00:00:00,2.0,/cars/nissan/elgrand/nissan-elgrand-2-5a-highway-star/G34VPR
+74,74,75,Mercedes-Benz,E-Class E300 Cabriolet AMG Premium,Carro,268888,20067,3,28180,2020-08-07 00:00:00,7.75,/cars/mercedes-benz/e300/mercedes-benz-e-class-e300-cabriolet-amg-premium/D24598
+75,75,76,Chevrolet,Aveo 1.4A (COE till 03/2029),Carro,54888,97551,1,8590,2009-03-09 00:00:00,6.333333333333333,/cars/chevrolet/aveo/chevrolet-aveo-1-4a--coe-till-03-2029-/GVJ0Q4
+76,76,77,Suzuki,SX4 S-Cross 1.6A Sunroof,Carro,53888,107343,2,12700,2016-03-16 00:00:00,3.3333333333333335,/cars/suzuki/sx4/suzuki-sx4-s-cross-1-6a-sunroof/DO8OQ7
+77,77,78,Mazda,2 1.5A Standard Plus (OPC),Carro,63888,19718,2,10940,2018-05-30 00:00:00,5.583333333333333,/cars/mazda/mazda2/mazda-2-1-5a-standard-plus--opc-/GM8ZM8
+78,78,79,Subaru,BRZ 2.0A,Carro,183888,22973,4,23870,2019-11-29 00:00:00,7.083333333333333,/cars/subaru/brz/subaru-brz-2-0a/DL8YZK
+79,79,80,BMW,3 Series 318i,Carro,71388,160462,2,16860,2016-02-26 00:00:00,3.3333333333333335,/cars/bmw/318i/bmw-3-series-318i/DXLR39
+80,80,81,BMW,M Series M135i 5DR,Carro,116888,119513,2,26400,2016-06-16 00:00:00,3.5833333333333335,/cars/bmw/m135i/bmw-m-series-m135i-5dr/G969R5
+81,81,82,Subaru,Forester 2.0A XT Sunroof,Carro,64888,160302,2,16050,2016-03-31 00:00:00,3.4166666666666665,/cars/subaru/forester/subaru-forester-2-0a-xt-sunroof/EQ8QZ8
+82,82,83,BMW,5 Series 528i (COE till 10/2030),Carro,110888,124593,5,13790,2010-12-10 00:00:00,8.0,/cars/bmw/528i/bmw-5-series-528i--coe-till-10-2030-/DO8JX2
+83,83,84,Nissan,Note e-POWER Hybrid 1.2A Premium,Carro,115888,10999,1,11960,2022-03-18 00:00:00,9.333333333333334,/cars/nissan/note/nissan-note-e-power-hybrid-1-2a-premium/D89ZV8
+84,84,85,Mitsubishi,ASX 2.0A,Carro,67888,97886,1,13070,2017-04-25 00:00:00,4.5,/cars/mitsubishi/asx/mitsubishi-asx-2-0a/GJ8OK5
+85,85,86,SEAT,Leon CUPRA 2.0A TSI DSG,Carro,139888,96380,1,23690,2017-11-20 00:00:00,5.0,/cars/seat/leon/seat-leon-cupra-2-0a-tsi-dsg/G969MN
+86,86,87,Audi,A4 1.4A TFSI S-tronic Design,Carro,85888,186830,4,17300,2016-02-19 00:00:00,3.25,/cars/audi/a4/audi-a4-1-4a-tfsi-s-tronic-design/D89ZLX
+87,87,88,Mercedes-Benz,CLA-Class CLA200,Carro,49888,85137,2,22400,2014-07-14 00:00:00,1.6666666666666665,/cars/mercedes-benz/cla/mercedes-benz-cla-class-cla200/GP95L6
+88,88,89,Volvo,V60 Cross Country B5 2.0A,Carro,205888,8677,2,20620,2021-10-07 00:00:00,8.916666666666666,/cars/volvo/v60cc/volvo-v60-cross-country-b5-2-0a/DO8JK4
+89,89,90,Mercedes-Benz,C-Class C43 AMG 4MATIC,Carro,203888,75744,4,30860,2017-09-29 00:00:00,4.916666666666667,/cars/mercedes-benz/amg/mercedes-benz-c-class-c43-amg-4matic/EK8PZ9
+90,90,91,Volkswagen,Passat CC 2.0A TSI Sunroof (COE till 04/2029),Carro,68888,205545,4,10540,2009-07-31 00:00:00,6.5,/cars/volkswagen/passat/volkswagen-passat-cc-2-0a-tsi-sunroof--coe-till-04-2029-/GJ8OY5
+91,91,92,BMW,5 Series 535i Gran Turismo Sunroof (COE till 07/2031),Carro,131888,92258,4,15010,2011-10-20 00:00:00,8.75,/cars/bmw/535i/bmw-5-series-535i-gran-turismo-sunroof--coe-till-07-2031-/D89ZWX
+92,92,93,BMW,2 Series 216i Gran Tourer,Carro,120888,92992,3,14610,2019-10-24 00:00:00,7.0,/cars/bmw/216i/bmw-2-series-216i-gran-tourer/G34P4N
+93,93,94,Honda,Jazz 1.3A,Carro,77888,63280,1,11330,2019-06-03 00:00:00,6.583333333333333,/cars/honda/jazz/honda-jazz-1-3a/EK8P8P
+94,94,95,Mazda,3 HB 2.0A Sport Sunroof,Carro,73888,54479,2,13460,2017-07-04 00:00:00,4.666666666666667,/cars/mazda/mazda3/mazda-3-hb-2-0a-sport-sunroof/G66174
+95,95,96,Hyundai,Sonata 2.0A GLS,Carro,52888,115849,3,13680,2015-12-15 00:00:00,3.0833333333333335,/cars/hyundai/lf/hyundai-sonata-2-0a-gls/G66104
+96,96,97,BMW,4 Series 420i Gran Coupe Sport,Carro,128888,117342,1,21160,2017-09-14 00:00:00,4.833333333333333,/cars/bmw/420i/bmw-4-series-420i-gran-coupe-sport/G34P0J
+97,97,98,Tesla,Model 3 Electric Standard Range Plus,Carro,180888,46867,1,19960,2021-01-02 00:00:00,8.166666666666666,/cars/tesla/model/tesla-model-3-electric-standard-range-plus/E14N54
+98,98,99,Mercedes-Benz,A-Class A45 S AMG 4MATIC,Carro,308888,6035,1,30630,2021-07-30 00:00:00,8.75,/cars/mercedes-benz/amg/mercedes-benz-a-class-a45-s-amg-4matic/GVJ5M6
+99,99,100,Mercedes-Benz,E-Class E200 Avantgarde,Carro,213888,45604,1,22140,2020-11-24 00:00:00,8.083333333333334,/cars/mercedes-benz/e200/mercedes-benz-e-class-e200-avantgarde/DO8J1W
+100,100,101,Tesla,Model 3 Electric Performance AWD,Carro,243888,14000,1,24260,2021-09-20 00:00:00,8.833333333333334,/cars/tesla/model/tesla-model-3-electric-performance-awd/DL8L1Y
+101,101,102,Mazda,Biante 2.0A,Carro,55888,64882,1,16840,2015-07-31 00:00:00,2.75,/cars/mazda/biante/mazda-biante-2-0a/GJ8O6X
+102,102,103,Mercedes-Benz,V-Class V300d AMG Line 4MATIC,Carro,290000,18769,1,30560,2021-02-19 00:00:00,8.25,/cars/mercedes-benz/v300d/mercedes-benz-v-class-v300d-amg-line-4matic/D55825
+103,103,104,Honda,Civic 1.6A VTi,Carro,119588,11243,1,13170,2021-02-18 00:00:00,8.25,/cars/honda/civic/honda-civic-1-6a-vti/EZNL1W
+104,104,105,Mercedes-Benz,C-Class C160 Avantgarde,Carro,160888,46144,1,17730,2020-09-30 00:00:00,7.916666666666667,/cars/mercedes-benz/c160/mercedes-benz-c-class-c160-avantgarde/EQ8Q0V
+105,105,106,Volkswagen,Jetta GP 1.4A TSI Highline,Carro,54888,162680,2,12740,2016-03-28 00:00:00,3.4166666666666665,/cars/volkswagen/jetta/volkswagen-jetta-gp-1-4a-tsi-highline/G9695M
+106,106,107,Hyundai,Sonata 2.0A GLS,Carro,71888,65028,3,13790,2017-02-14 00:00:00,4.25,/cars/hyundai/lf/hyundai-sonata-2-0a-gls/D55815
+107,107,108,Nissan,Qashqai 1.2A DIG-T,Carro,60888,130120,1,13510,2016-10-19 00:00:00,3.9166666666666665,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/E14NYK
+108,108,109,Audi,A6 2.0A TFSI MU,Carro,65888,105805,2,18670,2015-03-26 00:00:00,2.4166666666666665,/cars/audi/a6/audi-a6-2-0a-tfsi-mu/DO8JYJ
+109,109,110,Mercedes-Benz,GLA-Class GLA200 Sport Executive,Carro,188888,20900,2,19480,2021-06-11 00:00:00,8.583333333333334,/cars/mercedes-benz/gla200/mercedes-benz-gla-class-gla200-sport-executive/GM85O2
+110,110,111,Maserati,GranTurismo Sport 4.7A,Carro,312888,56630,4,41150,2018-01-02 00:00:00,5.166666666666667,/cars/maserati/granturismo/maserati-granturismo-sport-4-7a/DL8LNO
+111,111,112,Audi,A6 Mild Hybrid 2.0A TFSI S-tronic Design,Carro,208888,31512,2,22260,2020-12-30 00:00:00,8.166666666666666,/cars/audi/a6/audi-a6-mild-hybrid-2-0a-tfsi-s-tronic-design/G04RMX
+112,112,113,Maserati,Quattroporte 3.0A,Carro,216888,70681,2,30180,2017-05-26 00:00:00,4.583333333333333,/cars/maserati/quattroporte/maserati-quattroporte-3-0a/EK8P47
+113,113,114,Audi,S4 3.0A TFSI Quattro S-tronic (COE till 05/2031),Carro,126888,126672,3,14720,2011-07-01 00:00:00,8.583333333333334,/cars/audi/s4/audi-s4-3-0a-tfsi-quattro-s-tronic--coe-till-05-2031-/GJ8O9Y
+114,114,115,BMW,X3 xDrive20i,Carro,56888,101173,1,25390,2014-02-28 00:00:00,1.3333333333333333,/cars/bmw/x3/bmw-x3-xdrive20i/G969N6
+115,115,116,Chevrolet,Cruze 1.6A,Carro,50888,79002,3,10780,2016-11-16 00:00:00,4.0,/cars/chevrolet/cruze/chevrolet-cruze-1-6a/D558WO
+116,116,117,Toyota,Rav4 Hybrid 2.5A X,Carro,188888,28421,1,21010,2021-01-04 00:00:00,8.166666666666666,/cars/toyota/rav4/toyota-rav4-hybrid-2-5a-x/G34P6K
+117,117,118,Volkswagen,Scirocco GP 1.4A TSI,Carro,68888,101267,3,14910,2016-08-15 00:00:00,3.75,/cars/volkswagen/scirocco/volkswagen-scirocco-gp-1-4a-tsi/GYM9LQ
+118,118,119,Mercedes-Benz,A-Class A200 AMG Line,Carro,163888,36986,1,18600,2020-08-26 00:00:00,7.833333333333333,/cars/mercedes-benz/a200/mercedes-benz-a-class-a200-amg-line/DR8LLP
+119,119,120,Audi,A4 1.4A TFSI S-tronic,Carro,91888,62367,2,18180,2017-02-09 00:00:00,4.25,/cars/audi/a4/audi-a4-1-4a-tfsi-s-tronic/DO8JJ7
+120,120,121,Mazda,3 Mild Hybrid 1.5A Astina,Carro,124388,8988,1,13430,2021-08-10 00:00:00,8.75,/cars/mazda/mazda3/mazda-3-mild-hybrid-1-5a-astina/GJ8OO6
+121,121,122,Volkswagen,Golf GTI 5DR Sunroof,Carro,202888,23406,1,20230,2021-09-09 00:00:00,8.833333333333334,/cars/volkswagen/golf/volkswagen-golf-gti-5dr-sunroof/E14NNV
+122,122,123,Lexus,GS300 (COE till 05/2030),Carro,93888,224815,6,12340,2010-05-27 00:00:00,7.583333333333333,/cars/lexus/gs300/lexus-gs300--coe-till-05-2030-/DO8JQ7
+123,123,124,Mazda,CX-30 2.0A Classic,Carro,130888,18050,1,14330,2021-03-31 00:00:00,8.416666666666666,/cars/mazda/cx-30/mazda-cx-30-2-0a-classic/GM85M8
+124,124,125,Toyota,Harrier Turbo 2.0A G,Carro,125888,108171,2,18490,2018-06-19 00:00:00,5.583333333333333,/cars/toyota/harrier/toyota-harrier-turbo-2-0a-g/EQ8LKR
+125,125,126,MINI,Cooper 1.5A,Carro,135888,26791,2,16980,2019-11-19 00:00:00,7.0,/cars/mini/cooper/mini-cooper-1-5a/GP9K8M
+126,126,127,Mazda,MX-5 Roadster 2.0A RHT (COE till 10/2029),Carro,124888,109211,6,17740,2009-11-07 00:00:00,7.0,/cars/mazda/roadster/mazda-mx-5-roadster-2-0a-rht--coe-till-10-2029-/DXL431
+127,127,128,Mercedes-Benz,E-Class E200 AMG Edition E,Carro,110888,49529,2,21260,2016-06-16 00:00:00,3.5833333333333335,/cars/mercedes-benz/e200/mercedes-benz-e-class-e200-amg-edition-e/GVJQ14
+128,128,129,Nissan,Note 1.2A,Carro,68388,55692,1,10240,2019-03-25 00:00:00,6.416666666666667,/cars/nissan/note/nissan-note-1-2a/GJ8XM6
+129,129,130,Hyundai,Avante 1.6A S (OPC),Carro,108888,8042,1,11620,2021-12-13 00:00:00,9.083333333333334,/cars/hyundai/cn7/hyundai-avante-1-6a-s--opc-/E14QLP
+130,130,131,Audi,A3 Sportback 1.0A TFSI S-tronic,Carro,89888,69019,1,14710,2018-01-12 00:00:00,5.166666666666667,/cars/audi/a3/audi-a3-sportback-1-0a-tfsi-s-tronic/G045K7
+131,131,132,MINI,Cooper 1.5A,Carro,74888,101401,2,18080,2016-07-22 00:00:00,3.75,/cars/mini/cooper/mini-cooper-1-5a/DXL469
+132,132,133,Lexus,IS Turbo IS200t Executive,Carro,96888,92647,2,19830,2016-07-25 00:00:00,3.75,/cars/lexus/is200t/lexus-is-turbo-is200t-executive/GJ8XPQ
+133,133,134,Suzuki,Swift 1.3M XG,Carro,6888,162021,2,1476,2008-03-01 00:00:00,4.0,/cars/suzuki/swift/suzuki-swift-1-3m-xg/E44WOZ
+134,134,135,Volvo,XC60 T5 R-Design Sunroof,Carro,94388,161846,3,22150,2016-01-12 00:00:00,3.1666666666666665,/cars/volvo/xc60/volvo-xc60-t5-r-design-sunroof/G34QNP
+135,135,136,Nissan,Sylphy 1.6A,Carro,86888,164323,1,10660,2020-02-29 00:00:00,7.333333333333333,/cars/nissan/sylphy/nissan-sylphy-1-6a/D24OMO
+136,136,137,Porsche,Macan 2.0A PDK,Carro,156388,86801,1,33390,2016-02-19 00:00:00,3.25,/cars/porsche/macan/porsche-macan-2-0a-pdk/G045Y7
+137,137,138,Peugeot,308 SW 1.2A PureTech Allure,Carro,79888,92434,1,12230,2018-05-17 00:00:00,5.5,/cars/peugeot/308/peugeot-308-sw-1-2a-puretech-allure/DXL4Y9
+138,138,139,Kia,Cerato K3 1.6A,Carro,73388,42975,1,12400,2018-04-02 00:00:00,5.416666666666667,/cars/kia/forte/kia-cerato-k3-1-6a/EWKRXW
+139,139,140,Volvo,XC60 T6 R-Design Panoramic Roof,Carro,182888,35337,1,23190,2019-06-14 00:00:00,6.583333333333333,/cars/volvo/xc60/volvo-xc60-t6-r-design-panoramic-roof/GM8MKQ
+140,140,141,Audi,A4 2.0A TFSI S-tronic,Carro,139888,46751,1,17820,2019-07-19 00:00:00,6.666666666666667,/cars/audi/a4/audi-a4-2-0a-tfsi-s-tronic/E79W5Y
+141,141,142,Kia,Cerato 1.6A LX (OPC),Carro,82388,21660,1,9300,2021-01-12 00:00:00,8.166666666666666,/cars/kia/cerato/kia-cerato-1-6a-lx--opc-/EZN83K
+142,142,143,Seat,CUPRA Ateca 2.0A TSI,Carro,210888,17332,1,23200,2020-10-28 00:00:00,8.0,/cars/seat/cupra/seat-cupra-ateca-2-0a-tsi/DXL499
+143,143,144,Mercedes-Benz,C-Class C200 Edition C,Carro,56888,69140,2,25410,2014-01-15 00:00:00,1.1666666666666667,/cars/mercedes-benz/c200/mercedes-benz-c-class-c200-edition-c/DXL4X9
+144,144,145,Mercedes-Benz,SLK-Class SLK250 (COE till 03/2032),Carro,170888,55000,3,14990,2012-10-10 00:00:00,9.416666666666666,/cars/mercedes-benz/slk/mercedes-benz-slk-class-slk250--coe-till-03-2032-/DXLKJ1
+145,145,146,Audi,Q5 2.0A TFSI Quattro,Carro,97888,118480,1,19790,2016-08-24 00:00:00,3.8333333333333335,/cars/audi/q5/audi-q5-2-0a-tfsi-quattro/DR8WRP
+146,146,147,Toyota,Wish 1.8A,Carro,83888,41610,2,14500,2017-11-23 00:00:00,5.083333333333333,/cars/toyota/wish/toyota-wish-1-8a/DO85O7
+147,147,148,Audi,S5 Sportback 3.0A TFSI Quattro (COE till 02/2030),Carro,116888,163562,5,15870,2010-09-22 00:00:00,7.333333333333333,/cars/audi/s5/audi-s5-sportback-3-0a-tfsi-quattro--coe-till-02-2030-/EN8PYJ
+148,148,149,Mercedes-Benz,GLC-Class GLC300 Mild Hybrid AMG Line 4MATIC,Carro,255888,41962,1,27810,2020-10-15 00:00:00,7.916666666666667,/cars/mercedes-benz/glc300/mercedes-benz-glc-class-glc300-mild-hybrid-amg-line-4matic/EZNPML
+149,149,150,Hyundai,Elantra 1.6A GLS (OPC),Carro,67388,19431,1,10300,2018-09-25 00:00:00,5.916666666666667,/cars/hyundai/elantra/hyundai-elantra-1-6a-gls--opc-/GVJP54
+150,150,151,Volkswagen,Jetta 1.4A TSI (COE till 09/2031),Carro,88888,89481,2,9930,2011-10-10 00:00:00,8.916666666666666,/cars/volkswagen/jetta/volkswagen-jetta-1-4a-tsi--coe-till-09-2031-/EK84PW
+151,151,152,Audi,A3 Sedan 1.0A TFSI S-tronic,Carro,75888,81000,3,15720,2017-01-25 00:00:00,4.25,/cars/audi/a3/audi-a3-sedan-1-0a-tfsi-s-tronic/G96N9V
+152,152,153,Jaguar,XE 2.0A,Carro,109888,167350,1,15100,2018-08-28 00:00:00,5.833333333333333,/cars/jaguar/xe/jaguar-xe-2-0a/G66X13
+153,153,154,Volvo,XC40 Recharge Plug-in Hybrid T5 R-Design,Carro,205888,8575,1,20660,2021-10-29 00:00:00,9.0,/cars/volvo/xc40/volvo-xc40-recharge-plug-in-hybrid-t5-r-design/G346PR
+154,154,155,Volvo,XC60 B5 R-Design,Carro,238888,13796,1,23500,2022-01-14 00:00:00,9.166666666666666,/cars/volvo/xc60/volvo-xc60-b5-r-design/D24P98
+155,155,156,Volkswagen,Jetta GP 1.4A TSI,Carro,60888,153902,2,12450,2016-12-27 00:00:00,4.166666666666667,/cars/volkswagen/jetta/volkswagen-jetta-gp-1-4a-tsi/E14VNV
+156,156,157,Mercedes-Benz,E-Class E200,Carro,102888,115965,1,21150,2016-02-12 00:00:00,3.25,/cars/mercedes-benz/e200/mercedes-benz-e-class-e200/EZNPLL
+157,157,158,BMW,4 Series 428i Gran Coupe Sunroof,Carro,86888,138971,4,23400,2015-06-19 00:00:00,2.5833333333333335,/cars/bmw/428i/bmw-4-series-428i-gran-coupe-sunroof/DO85Q7
+158,158,159,Kia,Niro Hybrid 1.6A GDi DCT Sunroof,Carro,138888,18049,1,13970,2022-01-24 00:00:00,9.25,/cars/kia/niro/kia-niro-hybrid-1-6a-gdi-dct-sunroof/GP9J8O
+159,159,160,Audi,Q3 1.4A TFSI S-tronic,Carro,165888,22024,1,17880,2021-03-16 00:00:00,8.333333333333334,/cars/audi/q3/audi-q3-1-4a-tfsi-s-tronic/DO8O62
+160,160,161,Volkswagen,Scirocco 1.4A TSI (COE till 07/2030),Carro,71888,179265,3,9250,2010-07-28 00:00:00,7.75,/cars/volkswagen/scirocco/volkswagen-scirocco-1-4a-tsi--coe-till-07-2030-/GM8Z2Q
+161,161,162,Hyundai,Avante 1.6A GLS,Carro,98888,41096,1,12240,2020-02-19 00:00:00,7.25,/cars/hyundai/ad/hyundai-avante-1-6a-gls/E79ZPY
+162,162,163,Mitsubishi,Outlander 2.4A Sunroof,Carro,52888,174318,1,15060,2015-09-09 00:00:00,2.8333333333333335,/cars/mitsubishi/outlander/mitsubishi-outlander-2-4a-sunroof/G668OK
+163,163,164,Nissan,Qashqai 1.2A DIG-T,Carro,48888,74258,2,13960,2015-10-27 00:00:00,3.0,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/G668QK
+164,164,165,Hyundai,Elantra 1.6A GLS,Carro,69388,34498,1,12350,2017-12-07 00:00:00,5.083333333333333,/cars/hyundai/elantra/hyundai-elantra-1-6a-gls/D245MO
+165,165,166,Mazda,2 HB 1.5A Standard,Carro,83888,41536,1,11040,2019-09-18 00:00:00,6.833333333333333,/cars/mazda/mazda-2/mazda-2-hb-1-5a-standard/DXLJY9
+166,166,167,Honda,Odyssey 2.4A EXV-S Sunroof,Carro,100888,105733,1,18910,2017-02-16 00:00:00,4.25,/cars/honda/odyssey/honda-odyssey-2-4a-exv-s-sunroof/EWKQXW
+167,167,168,Audi,Q3 1.4A TFSI S-tronic,Carro,165888,16210,1,18340,2020-12-30 00:00:00,8.166666666666666,/cars/audi/q3/audi-q3-1-4a-tfsi-s-tronic/DL8YJ6
+168,168,169,Toyota,Harrier Turbo 2.0A M,Carro,140888,29082,1,17530,2019-10-31 00:00:00,7.0,/cars/toyota/harrier/toyota-harrier-turbo-2-0a-m/D89XJX
+169,169,170,Honda,City 1.5A LX i-VTEC (COE till 08/2030),Carro,73888,212524,4,9390,2010-09-29 00:00:00,7.833333333333333,/cars/honda/city/honda-city-1-5a-lx-i-vtec--coe-till-08-2030-/G6684V
+170,170,171,Nissan,Qashqai 1.2A DIG-T,Carro,59888,98528,2,13190,2016-10-26 00:00:00,4.0,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/D55Z40
+171,171,172,Volkswagen,Golf GTI 5DR,Carro,54888,188274,2,18680,2014-10-23 00:00:00,2.0,/cars/volkswagen/golf/volkswagen-golf-gti-5dr/GYMKXX
+172,172,173,Mazda,3 1.5A Sunroof,Carro,72888,93620,2,11840,2018-05-08 00:00:00,5.5,/cars/mazda/mazda3/mazda-3-1-5a-sunroof/EWKQVY
+173,173,174,Toyota,Estima 2.4A (COE till 08/2027),Carro,57888,224879,2,11990,2007-08-17 00:00:00,4.75,/cars/toyota/estima/toyota-estima-2-4a--coe-till-08-2027-/DO8OK4
+174,174,175,Honda,Jazz 1.3A,Carro,75588,59532,1,11950,2018-11-19 00:00:00,6.0,/cars/honda/jazz/honda-jazz-1-3a/EN8YJ0
+175,175,176,Honda,Fit 1.3A GF,Carro,89888,61926,1,10560,2020-12-16 00:00:00,8.083333333333334,/cars/honda/fit/honda-fit-1-3a-gf/G34V4J
+176,176,177,BMW,3 Series 318i Highline Sport,Carro,170888,33733,1,17980,2020-11-30 00:00:00,8.083333333333334,/cars/bmw/318i/bmw-3-series-318i-highline-sport/DR8R83
+177,177,178,BMW,3 Series 320i Highline,Carro,177888,18249,1,20410,2020-02-28 00:00:00,7.333333333333333,/cars/bmw/320i/bmw-3-series-320i-highline/G04938
+178,178,179,Land,Rover Range Rover Evoque 2.0A 5DR,Carro,118888,50975,2,20310,2016-08-18 00:00:00,3.75,/cars/land-rover/range/land-rover-range-rover-evoque-2-0a-5dr/GYMKPP
+179,179,180,Honda,Civic 1.5A VTEC Turbo Sunroof,Carro,110888,89101,1,15810,2018-11-05 00:00:00,6.0,/cars/honda/civic/honda-civic-1-5a-vtec-turbo-sunroof/EWKQN1
+180,180,181,Mazda,2 HB 1.5A V (COE till 06/2029),Carro,62888,115548,3,9450,2009-06-15 00:00:00,6.583333333333333,/cars/mazda/mazda2/mazda-2-hb-1-5a-v--coe-till-06-2029-/EQ8915
+181,181,182,Honda,Civic 1.6A VTi,Carro,100888,34757,1,13210,2019-09-03 00:00:00,6.833333333333333,/cars/honda/civic/honda-civic-1-6a-vti/DL8Y1Y
+182,182,183,Kia,Cerato 1.6A EX,Carro,119888,6644,1,11910,2022-02-25 00:00:00,9.333333333333334,/cars/kia/cerato/kia-cerato-1-6a-ex/DL8YPO
+183,183,184,BMW,1 Series 116i Sportline,Carro,141888,17939,2,14340,2021-06-15 00:00:00,8.583333333333334,/cars/bmw/116i/bmw-1-series-116i-sportline/G96ZVM
+184,184,185,MINI,Cooper Clubman 1.5A,Carro,118888,98062,2,17710,2018-06-28 00:00:00,5.666666666666667,/cars/mini/cooper/mini-cooper-clubman-1-5a/D89X41
+185,185,186,Skoda,Octavia 2.0A TSI RS,Carro,122888,60931,1,16060,2019-07-17 00:00:00,6.666666666666667,/cars/skoda/octavia/skoda-octavia-2-0a-tsi-rs/G6689R
+186,186,187,Volvo,XC60 T5 2.0A,Carro,73888,165559,3,17700,2015-10-27 00:00:00,3.0,/cars/volvo/xc60/volvo-xc60-t5-2-0a/E14O2K
+187,187,188,Toyota,Wish 1.8A X,Carro,48888,84432,2,16010,2015-06-23 00:00:00,2.6666666666666665,/cars/toyota/wish/toyota-wish-1-8a-x/DR8R65
+188,188,189,Honda,Civic 1.8M (COE till 07/2030),Carro,82888,191026,3,10720,2010-07-12 00:00:00,7.666666666666667,/cars/honda/civic/honda-civic-1-8m--coe-till-07-2030-/GP9J6J
+189,189,190,Hyundai,Avante 1.6A GLS,Carro,76888,324851,1,11160,2019-01-16 00:00:00,6.166666666666667,/cars/hyundai/ad/hyundai-avante-1-6a-gls/DO8O9J
+190,190,191,Mercedes-Benz,C-Class C180 Avantgarde,Carro,188888,22019,1,19300,2021-06-30 00:00:00,8.666666666666666,/cars/mercedes-benz/c180/mercedes-benz-c-class-c180-avantgarde/EN8Y6N
+191,191,192,BMW,2 Series 220i Gran Tourer,Carro,114888,134574,2,20970,2017-05-03 00:00:00,4.5,/cars/bmw/220i/bmw-2-series-220i-gran-tourer/DL8Y4O
+192,192,193,Land,Rover Range Rover Evoque 2.0A 5DR,Carro,122888,128652,1,21570,2016-01-29 00:00:00,3.25,/cars/land-rover/range-rover/land-rover-range-rover-evoque-2-0a-5dr/EK8K3Q
+193,193,194,BMW,5 Series 520i,Carro,85888,139394,2,20220,2015-11-04 00:00:00,3.0,/cars/bmw/520i/bmw-5-series-520i/GJ8J34
+194,194,195,Subaru,Outback 2.5i-S Sunroof,Carro,74888,95405,2,15740,2016-09-21 00:00:00,3.9166666666666665,/cars/subaru/outback/subaru-outback-2-5i-s-sunroof/D89XP1
+195,195,196,Volvo,V60 Diesel D2,Carro,53888,129098,1,17010,2015-06-29 00:00:00,2.6666666666666665,/cars/volvo/v60/volvo-v60-diesel-d2/E79ZON
+196,196,197,Skoda,Octavia 2.0A TSI RS,Carro,124888,47223,1,15890,2019-09-30 00:00:00,6.916666666666667,/cars/skoda/octavia/skoda-octavia-2-0a-tsi-rs/D245Q6
+197,197,198,BMW,2 Series 216i Gran Tourer,Carro,97888,83741,2,16550,2017-09-27 00:00:00,4.916666666666667,/cars/bmw/216i/bmw-2-series-216i-gran-tourer/GJ8J04
+198,198,199,Mercedes-Benz,GLA-Class GLA200 Urban Edition,Carro,64888,114887,5,22680,2015-03-13 00:00:00,2.3333333333333335,/cars/mercedes-benz/gla200/mercedes-benz-gla-class-gla200-urban-edition/GYMK0Q
+199,199,200,Volkswagen,Arteon 2.0A TSI R-Line,Carro,145888,50289,1,21450,2018-04-27 00:00:00,5.5,/cars/volkswagen/arteon/volkswagen-arteon-2-0a-tsi-r-line/DXLJPK
+200,200,201,Audi,A6 2.0A TFSI,Carro,105888,137160,1,20670,2016-08-23 00:00:00,3.8333333333333335,/cars/audi/a6/audi-a6-2-0a-tfsi/DO8OZX
+201,201,202,Mercedes-Benz,C-Class C180 Avantgarde,Carro,120888,66164,3,19930,2017-10-05 00:00:00,4.916666666666667,/cars/mercedes-benz/c180/mercedes-benz-c-class-c180-avantgarde/GJ8JLY
+202,202,203,Nissan,Qashqai 1.2A DIG-T,Carro,87888,75864,1,13630,2018-06-30 00:00:00,5.666666666666667,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/E79ZXM
+203,203,204,Mercedes-Benz,C-Class C200 Mild Hybrid AMG Line,Carro,175888,52612,3,20140,2019-12-02 00:00:00,7.083333333333333,/cars/mercedes-benz/c200/mercedes-benz-c-class-c200-mild-hybrid-amg-line/E44Z16
+204,204,205,BMW,2 Series 218i Coupe Sunroof,Carro,112888,45340,1,19120,2017-11-29 00:00:00,5.083333333333333,/cars/bmw/218i/bmw-2-series-218i-coupe-sunroof/GYMKOQ
+205,205,206,Audi,A4 2.0A TFSI S-tronic,Carro,131888,50395,1,18470,2018-11-21 00:00:00,6.083333333333333,/cars/audi/a4/audi-a4-2-0a-tfsi-s-tronic/EWKQ9Q
+206,206,207,Nissan,Qashqai 2.0A Premium,Carro,62888,72734,1,14690,2016-05-31 00:00:00,3.5833333333333335,/cars/nissan/qashqai/nissan-qashqai-2-0a-premium/GVJ075
+207,207,208,Volvo,XC60 B5 R-Design,Carro,240888,13567,1,24490,2021-09-30 00:00:00,8.916666666666666,/cars/volvo/xc60/volvo-xc60-b5-r-design/DR8R59
+208,208,209,Honda,Jazz 1.3A,Carro,90888,36650,1,11170,2020-08-19 00:00:00,7.75,/cars/honda/jazz/honda-jazz-1-3a/EK8K4W
+209,209,210,BMW,5 Series 535i Gran Turismo Sunroof (COE till 07/2030),Carro,115888,131176,4,14880,2011-02-15 00:00:00,7.75,/cars/bmw/535i/bmw-5-series-535i-gran-turismo-sunroof--coe-till-07-2030-/GJ8J96
+210,210,211,Nissan,Qashqai 1.2A DIG-T,Carro,47888,127056,3,14140,2015-09-17 00:00:00,2.8333333333333335,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/G96ZNV
+211,211,212,Mercedes-Benz,C-Class C180 Avantgarde,Carro,79888,124177,2,21670,2015-08-25 00:00:00,2.8333333333333335,/cars/mercedes-benz/c180/mercedes-benz-c-class-c180-avantgarde/E79Z8O
+212,212,213,Honda,Shuttle Hybrid 1.5A,Carro,118888,31974,1,13230,2020-11-24 00:00:00,8.083333333333334,/cars/honda/shuttle/honda-shuttle-hybrid-1-5a/G668X3
+213,213,214,BMW,2 Series 218i Gran Coupe M-Sport,Carro,182888,16431,1,17650,2021-12-17 00:00:00,9.083333333333334,/cars/bmw/218i/bmw-2-series-218i-gran-coupe-m-sport/GVJ004
+214,214,215,BMW,5 Series 528i,Carro,78888,78757,2,22090,2015-04-28 00:00:00,2.5,/cars/bmw/528i/bmw-5-series-528i/EWKQ62
+215,215,216,Volkswagen,Jetta GP 1.4A TSI,Carro,60888,102370,3,12710,2016-11-22 00:00:00,4.083333333333333,/cars/volkswagen/jetta/volkswagen-jetta-gp-1-4a-tsi/GVJ054
+216,216,217,BMW,2 Series 218i Gran Coupe M-Sport,Carro,177888,7627,2,17690,2021-08-27 00:00:00,8.833333333333334,/cars/bmw/218i/bmw-2-series-218i-gran-coupe-m-sport/G96Z9V
+217,217,218,Nissan,Elgrand 2.5A Highway Star,Carro,58888,140879,2,18840,2014-11-08 00:00:00,2.0,/cars/nissan/elgrand/nissan-elgrand-2-5a-highway-star/G34VPR
+218,218,219,Mercedes-Benz,E-Class E300 Cabriolet AMG Premium,Carro,268888,20067,3,28180,2020-08-07 00:00:00,7.75,/cars/mercedes-benz/e300/mercedes-benz-e-class-e300-cabriolet-amg-premium/D24598
+219,219,220,Chevrolet,Aveo 1.4A (COE till 03/2029),Carro,54888,97551,1,8590,2009-03-09 00:00:00,6.333333333333333,/cars/chevrolet/aveo/chevrolet-aveo-1-4a--coe-till-03-2029-/GVJ0Q4
+220,220,221,Suzuki,SX4 S-Cross 1.6A Sunroof,Carro,53888,107343,2,12700,2016-03-16 00:00:00,3.3333333333333335,/cars/suzuki/sx4/suzuki-sx4-s-cross-1-6a-sunroof/DO8OQ7
+221,221,222,Mazda,2 1.5A Standard Plus (OPC),Carro,63888,19718,2,10940,2018-05-30 00:00:00,5.583333333333333,/cars/mazda/mazda2/mazda-2-1-5a-standard-plus--opc-/GM8ZM8
+222,222,223,Subaru,BRZ 2.0A,Carro,183888,22973,4,23870,2019-11-29 00:00:00,7.083333333333333,/cars/subaru/brz/subaru-brz-2-0a/DL8YZK
+223,223,224,BMW,3 Series 318i,Carro,71388,160462,2,16860,2016-02-26 00:00:00,3.3333333333333335,/cars/bmw/318i/bmw-3-series-318i/DXLR39
+224,224,225,BMW,M Series M135i 5DR,Carro,116888,119513,2,26400,2016-06-16 00:00:00,3.5833333333333335,/cars/bmw/m135i/bmw-m-series-m135i-5dr/G969R5
+225,225,226,Subaru,Forester 2.0A XT Sunroof,Carro,64888,160302,2,16050,2016-03-31 00:00:00,3.4166666666666665,/cars/subaru/forester/subaru-forester-2-0a-xt-sunroof/EQ8QZ8
+226,226,227,BMW,5 Series 528i (COE till 10/2030),Carro,110888,124593,5,13790,2010-12-10 00:00:00,8.0,/cars/bmw/528i/bmw-5-series-528i--coe-till-10-2030-/DO8JX2
+227,227,228,Nissan,Note e-POWER Hybrid 1.2A Premium,Carro,115888,10999,1,11960,2022-03-18 00:00:00,9.333333333333334,/cars/nissan/note/nissan-note-e-power-hybrid-1-2a-premium/D89ZV8
+228,228,229,Mitsubishi,ASX 2.0A,Carro,67888,97886,1,13070,2017-04-25 00:00:00,4.5,/cars/mitsubishi/asx/mitsubishi-asx-2-0a/GJ8OK5
+229,229,230,SEAT,Leon CUPRA 2.0A TSI DSG,Carro,139888,96380,1,23690,2017-11-20 00:00:00,5.0,/cars/seat/leon/seat-leon-cupra-2-0a-tsi-dsg/G969MN
+230,230,231,Audi,A4 1.4A TFSI S-tronic Design,Carro,85888,186830,4,17300,2016-02-19 00:00:00,3.25,/cars/audi/a4/audi-a4-1-4a-tfsi-s-tronic-design/D89ZLX
+231,231,232,Mercedes-Benz,CLA-Class CLA200,Carro,49888,85137,2,22400,2014-07-14 00:00:00,1.6666666666666665,/cars/mercedes-benz/cla/mercedes-benz-cla-class-cla200/GP95L6
+232,232,233,Volvo,V60 Cross Country B5 2.0A,Carro,205888,8677,2,20620,2021-10-07 00:00:00,8.916666666666666,/cars/volvo/v60cc/volvo-v60-cross-country-b5-2-0a/DO8JK4
+233,233,234,Mercedes-Benz,C-Class C43 AMG 4MATIC,Carro,203888,75744,4,30860,2017-09-29 00:00:00,4.916666666666667,/cars/mercedes-benz/amg/mercedes-benz-c-class-c43-amg-4matic/EK8PZ9
+234,234,235,Volkswagen,Passat CC 2.0A TSI Sunroof (COE till 04/2029),Carro,68888,205545,4,10540,2009-07-31 00:00:00,6.5,/cars/volkswagen/passat/volkswagen-passat-cc-2-0a-tsi-sunroof--coe-till-04-2029-/GJ8OY5
+235,235,236,BMW,5 Series 535i Gran Turismo Sunroof (COE till 07/2031),Carro,131888,92258,4,15010,2011-10-20 00:00:00,8.75,/cars/bmw/535i/bmw-5-series-535i-gran-turismo-sunroof--coe-till-07-2031-/D89ZWX
+236,236,237,BMW,2 Series 216i Gran Tourer,Carro,120888,92992,3,14610,2019-10-24 00:00:00,7.0,/cars/bmw/216i/bmw-2-series-216i-gran-tourer/G34P4N
+237,237,238,Honda,Jazz 1.3A,Carro,77888,63280,1,11330,2019-06-03 00:00:00,6.583333333333333,/cars/honda/jazz/honda-jazz-1-3a/EK8P8P
+238,238,239,Mazda,3 HB 2.0A Sport Sunroof,Carro,73888,54479,2,13460,2017-07-04 00:00:00,4.666666666666667,/cars/mazda/mazda3/mazda-3-hb-2-0a-sport-sunroof/G66174
+239,239,240,Hyundai,Sonata 2.0A GLS,Carro,52888,115849,3,13680,2015-12-15 00:00:00,3.0833333333333335,/cars/hyundai/lf/hyundai-sonata-2-0a-gls/G66104
+240,240,241,BMW,4 Series 420i Gran Coupe Sport,Carro,128888,117342,1,21160,2017-09-14 00:00:00,4.833333333333333,/cars/bmw/420i/bmw-4-series-420i-gran-coupe-sport/G34P0J
+241,241,242,Tesla,Model 3 Electric Standard Range Plus,Carro,180888,46867,1,19960,2021-01-02 00:00:00,8.166666666666666,/cars/tesla/model/tesla-model-3-electric-standard-range-plus/E14N54
+242,242,243,Mercedes-Benz,A-Class A45 S AMG 4MATIC,Carro,308888,6035,1,30630,2021-07-30 00:00:00,8.75,/cars/mercedes-benz/amg/mercedes-benz-a-class-a45-s-amg-4matic/GVJ5M6
+243,243,244,Mercedes-Benz,E-Class E200 Avantgarde,Carro,213888,45604,1,22140,2020-11-24 00:00:00,8.083333333333334,/cars/mercedes-benz/e200/mercedes-benz-e-class-e200-avantgarde/DO8J1W
+244,244,245,Tesla,Model 3 Electric Performance AWD,Carro,243888,14000,1,24260,2021-09-20 00:00:00,8.833333333333334,/cars/tesla/model/tesla-model-3-electric-performance-awd/DL8L1Y
+245,245,246,Mazda,Biante 2.0A,Carro,55888,64882,1,16840,2015-07-31 00:00:00,2.75,/cars/mazda/biante/mazda-biante-2-0a/GJ8O6X
+246,246,247,Mercedes-Benz,V-Class V300d AMG Line 4MATIC,Carro,290000,18769,1,30560,2021-02-19 00:00:00,8.25,/cars/mercedes-benz/v300d/mercedes-benz-v-class-v300d-amg-line-4matic/D55825
+247,247,248,Honda,Civic 1.6A VTi,Carro,119588,11243,1,13170,2021-02-18 00:00:00,8.25,/cars/honda/civic/honda-civic-1-6a-vti/EZNL1W
+248,248,249,Mercedes-Benz,C-Class C160 Avantgarde,Carro,160888,46144,1,17730,2020-09-30 00:00:00,7.916666666666667,/cars/mercedes-benz/c160/mercedes-benz-c-class-c160-avantgarde/EQ8Q0V
+249,249,250,Volkswagen,Jetta GP 1.4A TSI Highline,Carro,54888,162680,2,12740,2016-03-28 00:00:00,3.4166666666666665,/cars/volkswagen/jetta/volkswagen-jetta-gp-1-4a-tsi-highline/G9695M
+250,250,251,Hyundai,Sonata 2.0A GLS,Carro,71888,65028,3,13790,2017-02-14 00:00:00,4.25,/cars/hyundai/lf/hyundai-sonata-2-0a-gls/D55815
+251,251,252,Nissan,Qashqai 1.2A DIG-T,Carro,60888,130120,1,13510,2016-10-19 00:00:00,3.9166666666666665,/cars/nissan/qashqai/nissan-qashqai-1-2a-dig-t/E14NYK
+252,252,253,Audi,A6 2.0A TFSI MU,Carro,65888,105805,2,18670,2015-03-26 00:00:00,2.4166666666666665,/cars/audi/a6/audi-a6-2-0a-tfsi-mu/DO8JYJ
+253,253,254,Mercedes-Benz,GLA-Class GLA200 Sport Executive,Carro,188888,20900,2,19480,2021-06-11 00:00:00,8.583333333333334,/cars/mercedes-benz/gla200/mercedes-benz-gla-class-gla200-sport-executive/GM85O2
+254,254,255,Maserati,GranTurismo Sport 4.7A,Carro,312888,56630,4,41150,2018-01-02 00:00:00,5.166666666666667,/cars/maserati/granturismo/maserati-granturismo-sport-4-7a/DL8LNO
+255,255,256,Audi,A6 Mild Hybrid 2.0A TFSI S-tronic Design,Carro,208888,31512,2,22260,2020-12-30 00:00:00,8.166666666666666,/cars/audi/a6/audi-a6-mild-hybrid-2-0a-tfsi-s-tronic-design/G04RMX
+256,256,257,Maserati,Quattroporte 3.0A,Carro,216888,70681,2,30180,2017-05-26 00:00:00,4.583333333333333,/cars/maserati/quattroporte/maserati-quattroporte-3-0a/EK8P47
+257,257,258,Audi,S4 3.0A TFSI Quattro S-tronic (COE till 05/2031),Carro,126888,126672,3,14720,2011-07-01 00:00:00,8.583333333333334,/cars/audi/s4/audi-s4-3-0a-tfsi-quattro-s-tronic--coe-till-05-2031-/GJ8O9Y
+258,258,259,BMW,X3 xDrive20i,Carro,56888,101173,1,25390,2014-02-28 00:00:00,1.3333333333333333,/cars/bmw/x3/bmw-x3-xdrive20i/G969N6
+259,259,260,Chevrolet,Cruze 1.6A,Carro,50888,79002,3,10780,2016-11-16 00:00:00,4.0,/cars/chevrolet/cruze/chevrolet-cruze-1-6a/D558WO
+260,260,261,Toyota,Rav4 Hybrid 2.5A X,Carro,188888,28421,1,21010,2021-01-04 00:00:00,8.166666666666666,/cars/toyota/rav4/toyota-rav4-hybrid-2-5a-x/G34P6K
+261,261,262,Volkswagen,Scirocco GP 1.4A TSI,Carro,68888,101267,3,14910,2016-08-15 00:00:00,3.75,/cars/volkswagen/scirocco/volkswagen-scirocco-gp-1-4a-tsi/GYM9LQ
+262,262,263,Mercedes-Benz,A-Class A200 AMG Line,Carro,163888,36986,1,18600,2020-08-26 00:00:00,7.833333333333333,/cars/mercedes-benz/a200/mercedes-benz-a-class-a200-amg-line/DR8LLP
+263,263,264,Audi,A4 1.4A TFSI S-tronic,Carro,91888,62367,2,18180,2017-02-09 00:00:00,4.25,/cars/audi/a4/audi-a4-1-4a-tfsi-s-tronic/DO8JJ7
+264,264,265,Mazda,3 Mild Hybrid 1.5A Astina,Carro,124388,8988,1,13430,2021-08-10 00:00:00,8.75,/cars/mazda/mazda3/mazda-3-mild-hybrid-1-5a-astina/GJ8OO6
+265,265,266,Volkswagen,Golf GTI 5DR Sunroof,Carro,202888,23406,1,20230,2021-09-09 00:00:00,8.833333333333334,/cars/volkswagen/golf/volkswagen-golf-gti-5dr-sunroof/E14NNV
+266,266,267,Lexus,GS300 (COE till 05/2030),Carro,93888,224815,6,12340,2010-05-27 00:00:00,7.583333333333333,/cars/lexus/gs300/lexus-gs300--coe-till-05-2030-/DO8JQ7
+267,267,268,Mazda,CX-30 2.0A Classic,Carro,130888,18050,1,14330,2021-03-31 00:00:00,8.416666666666666,/cars/mazda/cx-30/mazda-cx-30-2-0a-classic/GM85M8
+268,268,269,Toyota,Harrier Turbo 2.0A G,Carro,125888,108171,2,18490,2018-06-19 00:00:00,5.583333333333333,/cars/toyota/harrier/toyota-harrier-turbo-2-0a-g/EQ8LKR
+269,269,270,MINI,Cooper 1.5A,Carro,135888,26791,2,16980,2019-11-19 00:00:00,7.0,/cars/mini/cooper/mini-cooper-1-5a/GP9K8M
+270,270,271,Mazda,MX-5 Roadster 2.0A RHT (COE till 10/2029),Carro,124888,109211,6,17740,2009-11-07 00:00:00,7.0,/cars/mazda/roadster/mazda-mx-5-roadster-2-0a-rht--coe-till-10-2029-/DXL431
+271,271,272,Mercedes-Benz,E-Class E200 AMG Edition E,Carro,110888,49529,2,21260,2016-06-16 00:00:00,3.5833333333333335,/cars/mercedes-benz/e200/mercedes-benz-e-class-e200-amg-edition-e/GVJQ14
+272,272,273,Nissan,Note 1.2A,Carro,68388,55692,1,10240,2019-03-25 00:00:00,6.416666666666667,/cars/nissan/note/nissan-note-1-2a/GJ8XM6
+273,273,274,Hyundai,Avante 1.6A S (OPC),Carro,108888,8042,1,11620,2021-12-13 00:00:00,9.083333333333334,/cars/hyundai/cn7/hyundai-avante-1-6a-s--opc-/E14QLP
+274,274,275,Audi,A3 Sportback 1.0A TFSI S-tronic,Carro,89888,69019,1,14710,2018-01-12 00:00:00,5.166666666666667,/cars/audi/a3/audi-a3-sportback-1-0a-tfsi-s-tronic/G045K7
+275,275,276,MINI,Cooper 1.5A,Carro,74888,101401,2,18080,2016-07-22 00:00:00,3.75,/cars/mini/cooper/mini-cooper-1-5a/DXL469
+276,276,277,Lexus,IS Turbo IS200t Executive,Carro,96888,92647,2,19830,2016-07-25 00:00:00,3.75,/cars/lexus/is200t/lexus-is-turbo-is200t-executive/GJ8XPQ
+277,277,278,Suzuki,Swift 1.3M XG,Carro,6888,162021,2,1476,2008-03-01 00:00:00,4.0,/cars/suzuki/swift/suzuki-swift-1-3m-xg/E44WOZ
+278,278,279,Volvo,XC60 T5 R-Design Sunroof,Carro,94388,161846,3,22150,2016-01-12 00:00:00,3.1666666666666665,/cars/volvo/xc60/volvo-xc60-t5-r-design-sunroof/G34QNP
+279,279,280,Nissan,Sylphy 1.6A,Carro,86888,164323,1,10660,2020-02-29 00:00:00,7.333333333333333,/cars/nissan/sylphy/nissan-sylphy-1-6a/D24OMO
+280,280,281,Porsche,Macan 2.0A PDK,Carro,156388,86801,1,33390,2016-02-19 00:00:00,3.25,/cars/porsche/macan/porsche-macan-2-0a-pdk/G045Y7
+281,281,282,Peugeot,308 SW 1.2A PureTech Allure,Carro,79888,92434,1,12230,2018-05-17 00:00:00,5.5,/cars/peugeot/308/peugeot-308-sw-1-2a-puretech-allure/DXL4Y9
+282,282,283,Kia,Cerato K3 1.6A,Carro,73388,42975,1,12400,2018-04-02 00:00:00,5.416666666666667,/cars/kia/forte/kia-cerato-k3-1-6a/EWKRXW
+283,283,284,Volvo,XC60 T6 R-Design Panoramic Roof,Carro,182888,35337,1,23190,2019-06-14 00:00:00,6.583333333333333,/cars/volvo/xc60/volvo-xc60-t6-r-design-panoramic-roof/GM8MKQ
+284,284,285,Audi,A4 2.0A TFSI S-tronic,Carro,139888,46751,1,17820,2019-07-19 00:00:00,6.666666666666667,/cars/audi/a4/audi-a4-2-0a-tfsi-s-tronic/E79W5Y
+285,285,286,Kia,Cerato 1.6A LX (OPC),Carro,82388,21660,1,9300,2021-01-12 00:00:00,8.166666666666666,/cars/kia/cerato/kia-cerato-1-6a-lx--opc-/EZN83K
+286,286,287,Seat,CUPRA Ateca 2.0A TSI,Carro,210888,17332,1,23200,2020-10-28 00:00:00,8.0,/cars/seat/cupra/seat-cupra-ateca-2-0a-tsi/DXL499
+287,287,288,Mercedes-Benz,C-Class C200 Edition C,Carro,56888,69140,2,25410,2014-01-15 00:00:00,1.1666666666666667,/cars/mercedes-benz/c200/mercedes-benz-c-class-c200-edition-c/DXL4X9
