@@ -27,29 +27,27 @@ df["depreciation"] = pd.to_numeric(df["depreciation"])
 # df.head()
 
 # Splitting coe_left in to individual Registration and coe_left columns
-df[['reg_date','coe_left']] = df.coe_left.str.split("(",expand=True)
-
+df[['reg_date','years_left']] = df.coe_left.str.split("(",expand=True)
 # Changing coe_left from string object to Date 
-df['coe_left'] = df['coe_left'].map(lambda x: x.lstrip('').rstrip('mths left)'))
-# df.head()
-df[['coe_year','coe_months']] = df.coe_left.str.split("yrs ",expand=True)
-
+df['years_left'] = df['years_left'].map(lambda x: x.lstrip('').rstrip('mths left)'))
+df.head()
+df[['coe_year','coe_months']] = df.years_left.str.split("yrs ",expand=True)
+df.head()
 df["coe_year"] = df['coe_year'].str.replace('yr','')
-df["coe_months"].unique()
 #Replacing nan  values
 df = df.fillna(0)
 df["coe_year"] = pd.to_numeric(df["coe_year"])
 df["coe_months"] = pd.to_numeric(df["coe_months"])
 df['coe_months'] = df['coe_months'].div(12)
-# df.head()
-df['coe_left']= df[['coe_year','coe_months']].sum(axis=1)
+df.head()
+df['years_left']= df[['coe_year','coe_months']].sum(axis=1)
 df["reg_date"] = df['reg_date'].str.replace(' ','')
 df['reg_date'] = pd.to_datetime(df['reg_date'], format='%d%b%y')
-# df.head()
+df.head()
 
-# Compiling the cleaned data
+
 df_cleaned = df[['id', 'brand', 'model', 'website', 'price', 'mileage', 'owners',
-       'depreciation', 'reg_date', 'coe_left', 'link']]
+       'depreciation', 'coe_left','reg_date','years_left', 'link']]
 df_cleaned.head()
 #Creating a cursor object using the cursor() method
 cursor = cnx.cursor()
