@@ -142,6 +142,16 @@ print('Plotting Line Plots of between age and coe_left of car : ', lineplots('ag
 print('Plotting Line Plots of between brand and depreciation of car : ', lineplots('brand','depreciation',df))
 print('Plotting Line Plots of between brand and coe_left of car : ', lineplots('brand','coe_left',df))
 
+# Filtered Line Plots
+## Filtered on Brand == Audi
+filtered_df = df[df['brand'] == 'Audi'] # Replace filter value to the brand you want.
+print('Plotting Line Plots of between age and price of car (Filtered on Brand Value) : ', lineplots('age','price',filtered_df))
+print('Plotting Line Plots of between age and Mileage of car (Filtered on Brand Value) : ', lineplots('age','mileage',filtered_df))
+print('Plotting Line Plots of between age and depreciation of car (Filtered on Brand Value) : ', lineplots('age','depreciation',filtered_df))
+print('Plotting Line Plots of between age and coe_left of car (Filtered on Brand Value) : ', lineplots('age','coe_left',filtered_df))
+print('Plotting Line Plots of between brand and depreciation of car (Filtered on Brand Value) : ', lineplots('brand','depreciation',filtered_df))
+print('Plotting Line Plots of between brand and coe_left of car (Filtered on Brand Value) : ', lineplots('brand','coe_left',filtered_df))
+
 # Density Plots
 print('Plotting Density of cars by number of owners: ', densityplot(df.owners,df))
 print('Plotting Density of cars by  age: ', densityplot(df.age,df))
