@@ -79,7 +79,6 @@ def print_hi(attributes):
 
     print(classification_report(y_test, clf_pred, target_names=iris.target_names))
 
-
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print("1st output for classifier with 2 attributes")
