@@ -87,5 +87,4 @@ if __name__ == '__main__':
     print("2nd output for classifier with 4 attributes")
     attributes = 4
     print_hi(attributes)
-
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
