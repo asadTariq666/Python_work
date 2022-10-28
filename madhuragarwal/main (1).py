@@ -88,3 +88,127 @@ if __name__ == '__main__':
     attributes = 4
     print_hi(attributes)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+Ans 1
+
+N = 200005
+
+n, m, =0,0
+vis=[0 for i in range(N)]
+gr=[[] for i in range(N)]
+v=[[] for i in range(2)]
+
+def add_edges(x, y):
+        gr[x].append(y)
+        gr[y].append(x)
+
+def dfs(x, state):
+
+        v[state].append(x)
+
+        vis[x] = 1
+
+        for i in gr[x]:
+                if (vis[i] == 0):
+                        dfs(i, state ^ 1)
+
+
+def Print_vertices():
+
+        if (len(v[0]) < len(v[1])):
+                for i in v[0]:
+                        print(i,end=" ")
+        # If even level vertices are less
+        else:
+                for i in v[1]:
+                        print(i,end=" ")
+
+
+n = 4
+m = 3
+
+add_edges(1, 2)
+add_edges(2, 3)
+add_edges(3, 4)
+
+dfs(1, 0)
+
+Print_vertices()
+
+def display(n):
+        v = n
+        
+        while ( v >= 0) :
+                c = 65
+                
+                for j in range(v + 1):
+                        
+                        
+                        print( chr ( c + j ), end = " ")
+                v = v - 1
+                print()
+                
+        for i in range(n + 1):
+                c = 65
+                
+                for j in range( i + 1):
+                        print( chr ( c + j), end =" ")
+                print()
+
+n = 5
+display(n)
+Ans 2
+
+The adjacency matrix, also called the connection matrix, is a matrix containing rows and columns which is used to represent a simple labelled graph, with 0 or 1 in the position of (Vi , Vj) according to the condition whether Vi and Vj are adjacent or not. It is a compact way to represent the finite graph containing n vertices of a m x m matrix M. Sometimes adjacency matrix is also called as vertex matrix and it is defined in the general form as
+
+If the simple graph has no self-loops, Then the vertex matrix should have 0s in the diagonal. It is symmetric for the undirected graph. The connection matrix is considered as a square array where each row represents the out-nodes of a graph and each column represents the in-nodes of a graph. Entry 1 represents that there is an edge between two nodes.
+
+Ans 3
+
+
+def display(n):
+        v = n
+        
+        while ( v >= 0) :
+                c = 65
+                
+                for j in range(v + 1):
+                        
+                        
+                        print( chr ( c + j ), end = " ")
+                v = v - 1
+                print()
+                
+        for i in range(n + 1):
+                c = 65
+                
+                for j in range( i + 1):
+                        print( chr ( c + j), end =" ")
+                print()
+
+n = 5
+display(n)
+Ans 4
+
+
+import imutils
+
+text = cv2.imread("k")
+
+Rotated_text = imutils.rotate(text, angle=45)
+
+cv2.imshow("Rotated", Rotated_text)
+
+cv2.waitKey(0)
+Ans 5
+
+s=input()
+new_str="k"
+for i in range (len(s)):
+    if s[i].isupper():
+        new_str+=s[i].lower()
+    elif s[i].islower():
+        new_str+=s[i].upper()
+    else:
+        new_str+=s[i]
+print(new_str)
