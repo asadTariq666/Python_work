@@ -51,5 +51,4 @@ f13.plot(ax=axes[3,0],legend=None,color=clr).set_title("f: 13")
 f14.plot(ax=axes[3,1],legend=None,color=clr).set_title("f: 14")
 f15.plot(ax=axes[3,2],legend=None,color=clr).set_title("f: 15")
 f16.plot(ax=axes[3,3],legend=None,color=clr).set_title("f: 16")
-
 plt.show()
