@@ -23,7 +23,6 @@ f14 = df[["14","30"]]
 f15 = df[["15","31"]]
 f16 = df[["16","32"]]
 clr=['blue','red']
-
 fig, axes = plt.subplots(nrows=4, ncols=4)
 fig.set_figheight(8)
 fig.set_figwidth(12)
