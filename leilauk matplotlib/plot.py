@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings("ignore")
 df = pd.read_csv('/Users/asadtariq/Downloads/Python_work/Python_work/leilauk matplotlib/braindatanew.csv')
-df.head()
+
 
 f1= df[["1","17"]]
 f2= df[["2","18"]]
@@ -29,7 +29,6 @@ fig.set_figheight(8)
 fig.set_figwidth(12)
 fig.supxlabel('Time [ms]')
 fig.supylabel('Resting Membrane Potential [mV]')
-
 plt.setp(axes, xticks=[0,1000], xticklabels=[0,1000],
         yticks=[-75,-50,-25])
 f1.plot(ax=axes[0,0],legend=None,color=clr).set_title("f: 1")
