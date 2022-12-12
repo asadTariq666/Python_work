@@ -4,8 +4,6 @@ import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings("ignore")
 df = pd.read_csv('/Users/asadtariq/Downloads/Python_work/Python_work/leilauk matplotlib/braindatanew.csv')
-
-
 f1= df[["1","17"]]
 f2= df[["2","18"]]
 f3 = df[["3","19"]]
