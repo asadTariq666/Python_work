@@ -98,7 +98,6 @@ for line in Lines:
                 flag2=0
                 flag3=0
             
-
     index = index+1
 #print(type(layers_count))               #count +=1
 f.close()
