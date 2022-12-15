@@ -90,7 +90,6 @@ for line in Lines:
         #if(Lines[index].__contains__(';MESH:NONMESH')):
         if (Lines[index].__contains__('G1 ')):
             flag2= 1
-        
         if((flag2== 1)): #and (Lines[index+2].__contains__(';MESH:NONMESH')or Lines[index+3].__contains__(';MESH:NONMESH')or Lines[index+4].__contains__(';MESH:NONMESH'))):
             if(Lines[index+1].__contains__('G0 ')):
                 if(flag3==0):
