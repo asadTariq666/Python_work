@@ -78,8 +78,7 @@ for line in Lines:
                     Y = splitted_line[i].replace("Y", "")
                 
             new_line = move+'[['+X+','+Y+','+Z+ "]," +var1+  ','  + var2  +','  + var3  +',' + var4  +',' + var5 +',' + var6 +',' + var7 + "\n"
-            
-
+        
             #str = ','.join(new_line)
             #print(type(new_line))
             #print(new_line)
