@@ -79,8 +79,6 @@ for line in Lines:
                 if(splitted_line[i].__contains__('Z')):
                     Z = splitted_line[i].replace("Z", "")
                 flag3=1
-            
-
             new_line = move+'[['+X+','+Y+','+Z+ "]," +var1+  ','  + var2  +','  + var3  +',' + var4  +',' + var5 +',' + var6 +',' + var7 + "\n"
             w.write(new_line)
 
