@@ -53,7 +53,6 @@ for line in Lines:
         layers_count = line.replace(";LAYER_COUNT:","")
         layers_count = int(layers_count)
 
-
     if line.__contains__('LAYER:0'):  #  ignore everything before Layer: 0 
         flag =1
     if (flag):
