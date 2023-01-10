@@ -96,6 +96,5 @@ for line in Lines:
             w.write(new_line)
     index = index+1
 f.close()
-
 w.close()
 
