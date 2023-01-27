@@ -359,4 +359,28 @@ def accuracy_metric(actual, predicted):
 acc2 = accuracy_metric(y_test.values,y_pred2)
 print('Accuracy score of K Nearest Neighbours on y_test test set is: ',acc2,'%')
 
+print('__________________________________________________________________________________________________________________________________')
+print('__________________________________________________________________________________________________________________________________')
+print('_______________________________3. Make prediction based on user input (Total marks:20) ___________________________________________')
+print('__________________________________________________________________________________________________________________________________')
+print('*** 3a) Make prediction/classification of the environmental condition based on the following input data:***')
+input = [[0,0.0055,0,0.013,24,80,0.004]]
+
+pred_input =clf2.predict(input)
+pred_input
+if(pred_input[0]== 0):
+    print("Predicted class of input data : warm & dry")
+elif(pred_input[0]== 1):
+    print("Predicted class of input data : cold & wet")
+elif(pred_input[0]== 2):
+    print("Predicted class of input data : ***** var temp & humid *****")
+
+print('__________________________________________________________________________________________________________________________________')
+print('__________________________________________________________________________________________________________________________________')
+print('*** 3b) From 3a), get and print the max probability of class based on the user’s input.***')
+
+number_of_class3 =(target_feature == 2).sum()
+probs_of_class = number_of_class3/len(target_feature)
+print('Max Probability is : ',probs_of_class)
+
 
