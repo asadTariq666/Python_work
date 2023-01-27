@@ -4,6 +4,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix
 from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
 import warnings
@@ -256,3 +257,106 @@ print('Split test and train')
 X_train, X_test, y_train, y_test = train_test_split(descriptive_features,target_feature ,
                                    random_state=42, 
                                    test_size=0.2)
+
+
+
+                                   ### 2. Modelling (Classification) (Total marks: 30)
+
+
+print('__________________________________________________________________________________________________________________________________')
+
+print('_______________________________________________________2. Modelling (Classification) (Total marks: 30)___________________________________________________________________________')
+
+print('__________________________________________________________________________________________________________________________________')
+print('-------------------------------------------------------------')
+print("*** 2a: Use two methods: Logistic Regression and KNN.")
+
+print("*************************Logistic Regression********************* ")
+
+clf1 = LogisticRegression(random_state=0).fit(X_train, y_train)
+
+
+print("************************* KNN ********************* ")
+
+clf2 = KNeighborsClassifier().fit(X_train, y_train)
+
+
+
+print("2a i) i) Create a user defined function to get the scores from two methods")
+print('Defining function to calculate score of classifiers')
+def calculate_score(cl,desc,tar):
+    
+    scr = cl.score(desc,tar)
+    return scr
+print('__________________________________________________________________________________________________________________________________')
+print('__________________________________________________________________________________________________________________________________')
+print("2a ii) Use pandas DataFrame to list out the scores of each method.")
+
+results = pd.DataFrame()
+results['Classifier'] = ['LogisticRegression','KNN']
+scr_lr = calculate_score(clf1,X_train,y_train)
+scr_knn = calculate_score(clf2,X_train,y_train)
+results['Score'] = [scr_lr,scr_knn]
+print('Dataframe with scores')
+print(results)
+
+print('__________________________________________________________________________________________________________________________________')
+print('__________________________________________________________________________________________________________________________________')
+print("*** 2a iii)  Based on the score, identify the best method.")
+print("According to Scores, KNN Performed better.")
+
+
+print('__________________________________________________________________________________________________________________________________')
+print('__________________________________________________________________________________________________________________________________')
+print('2 b) Based on the optimized method identified in 2a), make prediction on y_test dataset.')
+
+y_pred2 = clf2.predict(X_test)
+
+
+
+
+print('__________________________________________________________________________________________________________________________________')
+print('__________________________________________________________________________________________________________________________________')
+print('*** 2c) Create confusion matrix with seaborn heatmap.***')
+
+# Order of the input parameters is important: 
+# first param is the actual output values
+# second param is what our model predicted
+confsn_matrix = confusion_matrix(y_test, y_pred2)
+
+confsn_matrix
+
+plt.figure(figsize=(8,6), dpi=100)
+# Scale up the size of all text
+sns.set(font_scale = 1.1)
+
+ax = sns.heatmap(confsn_matrix, annot=True, fmt='d', )
+
+# set x-axis label and ticks. 
+ax.set_xlabel("Predicted Labels", fontsize=14, labelpad=20)
+ax.xaxis.set_ticklabels(['warm & dry', 'cold & wet', 'var temp & humid'])
+
+# set y-axis label and ticks
+ax.set_ylabel("Actual Labels", fontsize=14, labelpad=20)
+ax.yaxis.set_ticklabels(['warm & dry', 'cold & wet', 'var temp & humid'])
+
+# set plot title
+ax.set_title("Confusion Matrix for the prediction of test set", fontsize=14, pad=20)
+print(plt.show())
+
+
+print('__________________________________________________________________________________________________________________________________')
+print('__________________________________________________________________________________________________________________________________')
+print('*** 2d) Evaluate the model performance.***')
+
+def accuracy_metric(actual, predicted):
+ match = 0
+ for i in range(len(actual)):
+    if actual[i] == predicted[i]:
+        match += 1
+ return match / float(len(actual)) * 100.0
+
+acc2 = accuracy_metric(y_test.values,y_pred2)
+print('Accuracy score of K Nearest Neighbours on y_test test set is: ',acc2,'%')
+
+
