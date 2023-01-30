@@ -379,8 +379,12 @@ print('_________________________________________________________________________
 print('__________________________________________________________________________________________________________________________________')
 print('*** 3b) From 3a), get and print the max probability of class based on the user’s input.***')
 
-number_of_class3 =(target_feature == 2).sum()
-probs_of_class = number_of_class3/len(target_feature)
-print('Max Probability is : ',probs_of_class)
+def predict_class(clf, input):
+    y_probs = clf.predict_proba(input)
+    return np.amax(y_probs, axis=1)
 
+input_scaled = pd.DataFrame(ss.fit_transform(input),columns = descriptive_features.columns)
+
+probs = predict_class(clf1,input_scaled) 
+print("Maximum Probability of class:", probs)
 
