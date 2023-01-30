@@ -11,7 +11,7 @@ import warnings
 warnings.simplefilter("ignore")
 
 ## Importing data set
-df = pd.read_csv('dattrnhia iot sensor/IOT_SENSOR.csv')  # Specify correct path here
+df = pd.read_csv('dattrnhia iot sensor/IOT_SENSOR.csv')  
 df.head(5)
 df.shape
 ## 1. Feature Engineering (Data cleaning and preprocessing) (Total marks:50)
